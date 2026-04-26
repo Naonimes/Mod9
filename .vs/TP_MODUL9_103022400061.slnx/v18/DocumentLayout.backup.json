@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Ngoding\\TP_MODUL9_103022400061\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04DDE195-20DF-47D5-9C10-F265E43BDE7F}|TP_MODUL9_103022400061\\TP_MODUL9_103022400061.csproj|c:\\ngoding\\tp_modul9_103022400061\\tp_modul9_103022400061\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04DDE195-20DF-47D5-9C10-F265E43BDE7F}|TP_MODUL9_103022400061\\TP_MODUL9_103022400061.csproj|solutionrelative:tp_modul9_103022400061\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF712BC2-E353-5D2E-73AF-1902664E422C}|TP_MODUL9_103022400061\\TP_MODUL9_103022400061.csproj|c:\\ngoding\\tp_modul9_103022400061\\tp_modul9_103022400061\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF712BC2-E353-5D2E-73AF-1902664E422C}|TP_MODUL9_103022400061\\TP_MODUL9_103022400061.csproj|solutionrelative:tp_modul9_103022400061\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF712BC2-E353-5D2E-73AF-1902664E422C}|TP_MODUL9_103022400061\\TP_MODUL9_103022400061.csproj|c:\\ngoding\\tp_modul9_103022400061\\tp_modul9_103022400061\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF712BC2-E353-5D2E-73AF-1902664E422C}|TP_MODUL9_103022400061\\TP_MODUL9_103022400061.csproj|solutionrelative:tp_modul9_103022400061\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF712BC2-E353-5D2E-73AF-1902664E422C}|TP_MODUL9_103022400061\\TP_MODUL9_103022400061.csproj|c:\\ngoding\\tp_modul9_103022400061\\tp_modul9_103022400061\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF712BC2-E353-5D2E-73AF-1902664E422C}|TP_MODUL9_103022400061\\TP_MODUL9_103022400061.csproj|solutionrelative:tp_modul9_103022400061\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "C:\\Ngoding\\TP_MODUL9_103022400061\\TP_MODUL9_103022400061\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "TP_MODUL9_103022400061\\CovidConfig.cs",
+              "ToolTip": "C:\\Ngoding\\TP_MODUL9_103022400061\\TP_MODUL9_103022400061\\CovidConfig.cs",
+              "RelativeToolTip": "TP_MODUL9_103022400061\\CovidConfig.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwDAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T15:29:13.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Ngoding\\TP_MODUL9_103022400061\\TP_MODUL9_103022400061\\Config.cs",
+              "RelativeDocumentMoniker": "TP_MODUL9_103022400061\\Config.cs",
+              "ToolTip": "C:\\Ngoding\\TP_MODUL9_103022400061\\TP_MODUL9_103022400061\\Config.cs",
+              "RelativeToolTip": "TP_MODUL9_103022400061\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T15:28:34.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Ngoding\\TP_MODUL9_103022400061\\TP_MODUL9_103022400061\\Program.cs",
               "RelativeDocumentMoniker": "TP_MODUL9_103022400061\\Program.cs",
               "ToolTip": "C:\\Ngoding\\TP_MODUL9_103022400061\\TP_MODUL9_103022400061\\Program.cs",
               "RelativeToolTip": "TP_MODUL9_103022400061\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-26T15:19:55.99Z",
               "EditorCaption": ""
